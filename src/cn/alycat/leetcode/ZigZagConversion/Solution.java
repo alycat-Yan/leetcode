@@ -82,6 +82,9 @@ public class Solution {
         String s2 = "PINALSIGYAHRPI";
         String s3 ="PINALSIGYAHRPI";
 //        System.out.println(s.charAt(11111));
-        System.out.println(new Solution().convert2(s,4));
+//        System.out.println(new Solution().convert2(s,4));
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(Integer.MIN_VALUE);
     }
+
 }
